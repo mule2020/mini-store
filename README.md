@@ -1,5 +1,17 @@
 # MiniProductStore
 
+
+For login Test : Use the below Credentials
+
+    **username**: "mor_2314",
+    **pass**: "83r5^_"
+
+    
+And the **Netlify** hosted link is: https://67290eb02362cc359252dc5c--mini-store-muluken.netlify.app/
+
+Thank you
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
 
 ## Development server
