@@ -1,0 +1,69 @@
+.container {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.navbar {
+  background: linear-gradient(135deg, #f6f9fc, #eef1f5);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand .logo-icon {
+  width: 30px;
+  height: 30px;
+  background: #6e8efb;
+  border-radius: 50%;
+}
+
+.brand-text {
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  color: #333;
+  font-size: 1.2rem;
+}
+
+.nav-link {
+  color: #555;
+  font-weight: 500;
+  font-size: 1rem;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #6e8efb;
+}
+
+
+
+.cart-badge {
+  position: absolute;
+  right: -3px;
+  padding: 0.3em 0.6em;
+  font-size: 0.75rem;
+  border-radius: 50%;
+  background-color: #dc3545;
+  color: white;
+}
+
+
+/* Logout menu */
+
+.logout-link {
+  color: #dc3545; 
+  font-weight: bold; 
+  transition: color 0.3s ease, background-color 0.3s ease; 
+}
+
+.logout-link:hover {
+  color: #fff; 
+  background-color: #dc3545; 
+  border-radius: 5px;
+  padding: 8px 12px;
+}
+
+.logout-link i {
+  margin-right: 5px; 
+}
+
+
+

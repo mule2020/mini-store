@@ -1,0 +1,31 @@
+.card {
+  transition: transform 0.2s, box-shadow 0.2s; 
+}
+
+.card:hover {
+  transform: translateY(-5px); 
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); 
+}
+
+.card-img-top {
+  height: 200px; 
+  object-fit: cover; 
+}
+
+.card-title {
+  font-size: 1.25rem; 
+}
+
+.card-text {
+  font-size: 0.9rem; 
+}
+
+.add-to-cart-btn {
+  width: 100%; 
+  font-weight: bold; 
+  transition: background-color 0.3s; 
+}
+
+.add-to-cart-btn:hover {
+  background-color: #0056b3; 
+}

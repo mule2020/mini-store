@@ -1,0 +1,30 @@
+/* Add Product card styling */
+.card {
+    border-radius: 10px;
+    background-color: #f9f9f9; /* Light background for the card */
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Form input styling */
+  .form-control {
+    border-radius: 5px; /* Round the edges of inputs */
+  }
+  
+  /* Centering and styling the container */
+  .container {
+    padding: 30px 15px; /* Padding for the container */
+    border-radius: 15px; /* Round the corners of the container */
+    background: linear-gradient(135deg, #e3f2fd, #bbdefb); /* Soft gradient background */
+  }
+  
+  /* Button styling */
+  .btn-primary {
+    border-radius: 5px; /* Round the button edges */
+    font-weight: bold; /* Make button text bold */
+  }
+  
